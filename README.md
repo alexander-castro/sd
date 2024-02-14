@@ -1,1 +1,3 @@
-# sd
+# Sistemas Distribuidos
+
+By: Alexander Castro
